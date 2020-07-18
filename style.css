@@ -1,0 +1,15 @@
+.block {
+   width: 30px;
+   height: 30px;
+   text-align: center;
+   border: 1px solid black;
+   float: left;
+   display: block;
+}
+#playerDesk {
+   width: 300px;
+   height: 300px;
+}
+.active {
+   background-color: black;
+}
