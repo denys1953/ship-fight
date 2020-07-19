@@ -5,11 +5,25 @@
    border: 1px solid black;
    float: left;
    display: block;
+   font-size: 20px;
+   user-select: none;
+   cursor: pointer;
+   line-height: -30px;
+   font-weight: bold;
+}
+img {
+   width: 29px;
+   height: 29px;
+   margin-top: -5px;
 }
 #playerDesk {
    width: 300px;
    height: 300px;
+   margin-top: 30px;
 }
 .active {
-   background-color: black;
+   /* background-color: black; */
+}
+.std {
+   background-color: lightgray;
 }
